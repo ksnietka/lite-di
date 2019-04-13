@@ -1,0 +1,11 @@
+{
+  "name": "simple-di-container",
+  "version": "0.0.1",
+  "description": "Simple lightweight DI container",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Krzysztof Śnietka",
+  "license": "ISC"
+}
